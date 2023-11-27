@@ -4,9 +4,9 @@
 
    Sistem aplikasi berbasis WEB untuk pendataan WNI diluar negeri dan untuk memudahkan para WNI untuk melakukan layanan yang biasanya dilakukan di perwakilan setiap negara secara online atau booking online. 
 
-![](Aspose.Words.3840435b-0e7a-4221-8bd3-8172ab10268c.001.jpeg)
+![](asset/Aspose.Words.3840435b-0e7a-4221-8bd3-8172ab10268c.001.jpeg)
 
-![](Aspose.Words.3840435b-0e7a-4221-8bd3-8172ab10268c.002.jpeg)
+![](asset/Aspose.Words.3840435b-0e7a-4221-8bd3-8172ab10268c.002.jpeg)
 
 2. ERP – PT Radiant Utama Inerinsco tbk 
 
